@@ -1,11 +1,11 @@
 function update_captions(){
   if(window.innerWidth < 520){
-    captions = ["Coffee", "Panini",
-      "Idea", "Code",
-      "<span style='display:inline-block;line-height:11px;vertical-align:middle'>Deep Learning</span>",
-      "<span style='font-size:11px;display:inline-block;line-height:11px;vertical-align:middle'>See Supervisor</span>",
-      "<span style='font-size:11px'>Experiment</span>", "Paper",
-      "<span style='font-size:11px'>Conference</span>", "Viva", "PhD",
+    captions = ["Coffee", "Takeout",
+      "Idea", "Hypothesis",
+      "<span style='display:inline-block;line-height:11px;vertical-align:middle'>Study Design</span>",
+      "<span style='font-size:11px;display:inline-block;line-height:11px;vertical-align:middle'>Pilot Study</span>",
+      "<span style='font-size:11px'>User Study</span>", "Data",
+      "<span style='font-size:11px'>Analysis</span>", "Draft", "Paper",
       "<span style='font-size:smaller'>Postdoc</span>",
       "<span style='font-size:smaller'>Lecturer</span>", "Reader", "Prof."];
     captions_rel = ["<span style='font-size:9px;'>Relationship</span>",
