@@ -12,12 +12,12 @@ function update_captions(){
       "<span style='font-size:11px;'>Break-up</span>"];
   }
   else{
-    captions = ["Coffee", "Panini",
-      "Idea", "Code",
-      "<span style='font-size:24px;display:inline-block;line-height:24px;vertical-align:middle'>Deep Learning</span>",
-      "<span style='font-size:20px;display:inline-block;line-height:20px;vertical-align:middle'>See Supervisor</span>",
-      "<span style='font-size:20px'>Experiment</span>", "Paper",
-      "<span style='font-size:20px'>Conference</span>", "Viva", "PhD",
+    captions = ["Coffee", "Takeout",
+      "Idea", "Hypothesis",
+      "<span style='font-size:24px;display:inline-block;line-height:24px;vertical-align:middle'>Study Design</span>",
+      "<span style='font-size:20px;display:inline-block;line-height:20px;vertical-align:middle'>Pilot Study</span>",
+      "<span style='font-size:20px'>User Study</span>", "Data",
+      "<span style='font-size:20px'>Analysis</span>", "Draft", "Paper",
       "<span style='font-size:smaller'>Postdoc</span>",
       "<span style='font-size:smaller'>Lecturer</span>", "Reader", "Prof."];
     captions_rel = ["<span style='font-size:15px;'>Relationship</span>",
